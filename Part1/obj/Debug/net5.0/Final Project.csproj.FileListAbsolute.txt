@@ -1,0 +1,36 @@
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.csproj.AssemblyReference.cache
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\employees.csv
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\verbose.txt
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.exe
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.deps.json
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.json
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.dll
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\ref\Final Project.dll
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\bin\Debug\net5.0\Final Project.pdb
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.dll
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\ref\Final Project.dll
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.pdb
+D:\Woz\ADN102.Starter.10.FinalProject\Part1\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\employees.csv
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\verbose.txt
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.exe
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.deps.json
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.json
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.dll
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\ref\Final Project.dll
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\bin\Debug\net5.0\Final Project.pdb
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.csproj.AssemblyReference.cache
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.dll
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\ref\Final Project.dll
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.pdb
+D:\Woz\TaxCalc\IncomeTaxCalculator\Part1\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
